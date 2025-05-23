@@ -1,0 +1,14 @@
+# Node
+/frontend/node_modules
+
+# PHP Composer
+/backend/vendor
+
+# Docker
+*.log
+*.pid
+.env
+
+# System
+.DS_Store
+Thumbs.db
